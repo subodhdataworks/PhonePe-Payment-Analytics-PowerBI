@@ -44,8 +44,9 @@ The objective of this project is to analyze digital payment transactions and ide
 
 ![PhonePe Payment Analytics Dashboard](dashboard.png)
 
-## 👨‍💻 Created By Mr SUBODH 
+## 👨‍💻 Created By
 
 **MR SUBODH**
 
 Data Analyst | Excel | SQL | Python | Power BI
+> **Note:** This is a PhonePe-inspired digital payment analytics project created for portfolio and learning purposes. The dataset is not official PhonePe data.
